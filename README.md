@@ -1,1 +1,2 @@
 # Portfolio-Website
+I created a personal portfolio website using HTML and CSS to showcase my projects and skills in a visually appealing and organized way. The goal was to design a clean, professional platform that highlights key achievements and captures my personality. By focusing on responsive design, user-friendly navigation, and eye-catching aesthetics, the website provides an engaging experience for visitors while effectively conveying my capabilities and dedication to quality.
